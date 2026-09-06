@@ -1,0 +1,16 @@
+# Tableau
+*.tds
+*.tde
+*.hyper
+Thumbs.db
+
+# OS files
+.DS_Store
+Desktop.ini
+
+# Data files (uncomment if your data is private/sensitive)
+# data/*.csv
+# data/*.xlsx
+
+# Logs
+*.log
